@@ -8,8 +8,6 @@ ATMs are beneficial, allowing clients to conduct fast self-service transactions 
 ## WORKING 
 You need to insert plastic ATM cards inside the ATMs to start ATM operating. You have to drop your cards on some machines and some machines require card swapping. These ATM cards contain your account details and other security information on the magnetic stripe. When you drop or swap your card, the computer receives details about your account and requests for your PIN No. Once the authentication is valid, machines will permit cash transactions.
 
-## RESEARCH
-
 ## FEATURES
 - Deposit of cash
 - Withdrawal of cash
