@@ -12,7 +12,7 @@
 - Release money.
 - End.
  
-**##Procss for deposit cash  in your own accout **
+**##Procss for deposit cash  in your own accout**
 
 - Insert debit card and enter PIN for validation.
 - Select account type (Saving or Current).
