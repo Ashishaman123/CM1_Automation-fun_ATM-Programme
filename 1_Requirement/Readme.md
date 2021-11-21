@@ -23,9 +23,6 @@ You need to insert plastic ATM cards inside the ATMs to start ATM operating. You
 - Basic units permit only cash withdrawal by clients and provide updated account balance.
 - The more complicated machines in which you can also deposit cash, facilitate credit line payments and transfers, and access account details.
 
-## State of Art
-yet not done
-
 # SWOT ANALYSIS
 
 ## Strengths
@@ -57,12 +54,15 @@ yet not done
 ## What
 - An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
 ATMs are convenient, allowing consumers to perform quick self-service transactions such as deposits, cash withdrawals, bill payments, and transfers between accounts.
+
 ## Why
 - The evolution of the banking sector has made financial lives easier for customers. The first-ever automated teller machine was set up at London, United Kingdom, in the year     1967. In just over 50 years, the ATMs are now seen in use in every country.
 - The existence of ATMs has alleviated the need to visit a bank branch to make simple banking transactions, such as cash deposit and cash withdrawal. Gone are the days when       people needed to visit bank branches to complete these basic transactions within the bank operation hours.
 - Another significant use of ATMs is that they are found almost everywhere. In India, almost every neighbourhood in major cities, such as Delhi, Mumbai, Bengaluru, and Hyderabad   has at least one ATM. Also, ATMs allow inter-bank customers to transact. For instance, a customer of ABC bank can make transactions in an ATM set up by XYZ bank.
+- 
 ## Where
 - Almost all banks provide ATM cards at the time of account opening. It helps in getting the details of the transactions, total balance and mini statement. Some ATM Machines       also provide the facility of depositing cash and fund transfer. ATM is also used in paying utility bills and several other bills and payments.
+- 
 ## When
 - Anybody can use ATM service 24 ✕ 7 for withdraw cash, Deposite cash, Transfer of cash, Mini statement, Accounts details etc. anywhere and anytime.
  
@@ -78,7 +78,6 @@ ATMs are convenient, allowing consumers to perform quick self-service transactio
 |HLR_3|   Printer - Receipt printed upon demand.
 |HLR_4|   ATM State - Defaults to idle upon completion of transactions.
             
-
 # Low Level Requirements
 |LLR|     Description |
 |------|  ------------|
