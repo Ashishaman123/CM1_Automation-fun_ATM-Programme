@@ -64,7 +64,7 @@ ATMs are convenient, allowing consumers to perform quick self-service transactio
 - Almost all banks provide ATM cards at the time of account opening. It helps in getting the details of the transactions, total balance and mini statement. Some ATM Machines       also provide the facility of depositing cash and fund transfer. ATM is also used in paying utility bills and several other bills and payments.
 
 ## When
-- Anybody can use ATM service 24 ✕ 7 for withdraw cash, Deposite cash, Transfer of cash, Mini statement, Accounts details etc. anywhere and anytime.
+- Anybody can use ATM service 24 ✕ 7 for withdrawal of cash, Deposite of cash, Transfer of cash, Mini statement, Accounts details etc. anywhere and anytime.
  
 ## How
 - How Much Can You Withdraw From an ATM - The amount that you can withdraw from an ATM per day, per week, or per month will vary based on your bank and account status at that bank.
