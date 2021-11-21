@@ -69,13 +69,18 @@ ATMs are convenient, allowing consumers to perform quick self-service transactio
 - How Do You Make a Deposit at an ATM - Insert debit card and enter PIN for validation - Select account type (Saving or Current) - Place the money in the cash deposit slot and click “Continue” - Machine will sort the cash and will show denomination-wise amount to be deposited - If correct, click “Deposit”.
 
 # High Level Requirements
-|HLR|      Description  |
+|HLR|     Description  |
 |------|  --------------|
-|HLR_1|                 |
-|HLR_2|                 |
+|HLR_1|   PIN - Correct PIN allows transactions
+|HLR_2|   Cash Dispenser - Dispenses cash.
+|HLR_3|   Printer - Receipt printed upon demand.
+|HLR_4|   ATM State - Defaults to idle upon completion of transactions.
+            
 
 # Low Level Requirements
-|LLR|      Description |
-|------|  --------------|
-|LLR_1|                 |
-|LLR_2|                 |
+|LLR|     Description |
+|------|  ------------|
+|LLR_1|   Must be entered correctly within a certain number of attempts.
+|LLR_2|   Can be opened and refilled with cash.
+|LLR_3|   Can be opened and refilled with paper.
+|LLR_4|   Can be shut down and restarted.          
