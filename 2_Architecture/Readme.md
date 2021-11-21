@@ -1,14 +1,13 @@
 **The process for cash withdrawal from ATM**
 - Insert a credit/debit card
-- Is card valid? - If not
-                   Exit
+- Is card valid? - [If no, Exit]
+                  
 - Insert PIN code
 - Hold the card
-- Choose Action - Withdraw money
-                  Account balance
-                  Exit
-- Choose the amount of money to withdraw
+- Choose Action - Cash Withdraw - Account balance - Mini statement - Change pin - Exit
+                  
+- Choose the amount of money to withdraw/ enter amount
 - Show account balance
-- Sufficient funds on the account?
+- Sufficient funds on the account? - [If no, shows insufficient balance]
 - Release money
 - End
