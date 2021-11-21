@@ -12,7 +12,7 @@
 - Release money.
 - End.
  
-**##Procss for deposit cash  in your own accout**
+**##Procss for deposit cash  in your own account using ATM**
 
 - Insert debit card and enter PIN for validation.
 - Select account type (Saving or Current).
@@ -22,7 +22,7 @@
 - Amount will be deposited.
 - Receipt will be generated.
 
-**##Process for deposit cash in any account**
+**##Process for deposit cash in any account using ATM**
 - Click “Cash deposit without card”.
 - Enter account number in which you wish to deposit cash.
 - Machine will display the name of the account holder.
