@@ -49,6 +49,11 @@ yet not done
 - Upkeep – Repairs and maintenance for the machines (when needed).
 - Cash – While this isn’t necessarily an “expense”, you will need to load each ATM with cash for withdrawal.
 
+## Threats
+- ATM fraud - Card skimmig, Card trapping, Cash trapping, Transaction reversal, ATM malware.
+- ATM physical attack - Robbery, Burglary, Ram Raids
+
+
 # 4W and 1H
 
 ## What
@@ -56,9 +61,9 @@ yet not done
 ATMs are convenient, allowing consumers to perform quick self-service transactions such as deposits, cash withdrawals, bill payments, and transfers between accounts.
 
 ## Why
-- Playfair cipher is the first and best-known digraph substitution cipher, which uses the technique of symmetry encryption, and if anyone need secreat conversation on that time 
-  playfair can be use.
-
+- The evolution of the banking sector has made financial lives easier for customers. The first-ever automated teller machine was set up at London, United Kingdom, in the year     1967. In just over 50 years, the ATMs are now seen in use in every country.
+- The existence of ATMs has alleviated the need to visit a bank branch to make simple banking transactions, such as cash deposit and cash withdrawal. Gone are the days when       people needed to visit bank branches to complete these basic transactions within the bank operation hours.
+- Another significant use of ATMs is that they are found almost everywhere. In India, almost every neighbourhood in major cities, such as Delhi, Mumbai, Bengaluru, and Hyderabad   has at least one ATM. Also, ATMs allow inter-bank customers to transact. For instance, a customer of ABC bank can make transactions in an ATM set up by XYZ bank.
 ## Where
 - When the two or more than two person aur want to talk privately on that time this technique is used. 
 - This technique is not used for business purpose because this technique is easily decrypted when anyone have idea about this Technique. 
