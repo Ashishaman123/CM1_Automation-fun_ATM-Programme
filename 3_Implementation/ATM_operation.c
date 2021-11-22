@@ -1,4 +1,5 @@
 #include"stdio.h"
+
 void main(int pin, int choice, int amount, int withdraw, int deposit, int stdin, int transaction);
 {
 
@@ -71,6 +72,7 @@ void main(int pin, int choice, int amount, int withdraw, int deposit, int stdin,
 
                         amount = amount + deposit;
 			printf("YOUR BALANCE IS %lu", amount);
+				
 			break;
 
 		case 4:
@@ -87,10 +89,12 @@ void main(int pin, int choice, int amount, int withdraw, int deposit, int stdin,
 		fflush(stdin);
 
 		scanf("%c", &transaction);
+	
 		if (transaction == 'n'|| transaction == 'N')
                     k = 1;
 
 
 	} while (!k);
 	printf("\n\n THANKS FOR USING OUT ATM SERVICE");
+	
 }
