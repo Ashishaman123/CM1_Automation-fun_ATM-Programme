@@ -36,3 +36,4 @@ ATMs are beneficial, allowing clients to conduct fast self-service transactions 
 |No.|	Challenges|	Solution|
 |----|----------|----------|
 |1.|	Generation of makefile|To overcome this problem research on makefiles was done
+|2.|  Unity testing|Initially a few testcases did not pass, to overcome this issue debugging of program was performed
