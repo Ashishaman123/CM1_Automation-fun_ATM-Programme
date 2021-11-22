@@ -30,3 +30,11 @@ ATMs are beneficial, allowing clients to conduct fast self-service transactions 
 |4_TestplanAndOutput|	Documents with test plans and procedures and Output
 |5_Report|	Documentation of whole project
 |6_ImagesAndOutput|	Code Execution Images and Videos
+
+# Challenges Faced and How Was It Overcome
+
+|No.|	Challenge|	Solution|
+|----|----------|----------|
+|1.|	Implementation of SDLC and maaking UML diagrams|	Exploring them and linking with the architechture of my project
+|2.|	issues in running test cases|	specifying correct return values for functions
+|3.|	Issues in workflows|	filxed them by updating the path to all files correctly
