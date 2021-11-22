@@ -2,8 +2,9 @@
 
 ![ATM](https://user-images.githubusercontent.com/94282403/142884589-3d7a8aec-31b8-4361-891c-6e10657d3440.jpg)
 
-Folder Structure
-Folder	Description
+# Folder Structure
+
+|Folder|	|Description|
 1_Requirements	Documents detailing requirements and research
 2_Architecture	Behavioural and Structural UML Diagrams(Both High Level and Low Level)
 3_Implemenatation	All code and documentation
