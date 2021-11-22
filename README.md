@@ -4,7 +4,7 @@
 
 # Folder Structure
 
-|Folder|	|Description|
+|Folder|-----------------	|Description|
 1_Requirements	Documents detailing requirements and research
 2_Architecture	Behavioural and Structural UML Diagrams(Both High Level and Low Level)
 3_Implemenatation	All code and documentation
