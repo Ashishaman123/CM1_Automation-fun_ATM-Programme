@@ -1,3 +1,4 @@
+![ATM Png](https://user-images.githubusercontent.com/94282403/142878922-7fb11998-356e-43e5-897b-365e6f77bd33.jpg)
 ## Process for cash withdrawal from ATM
 - Insert a credit/debit card.
 - Is card valid? - [If no, Exit]
