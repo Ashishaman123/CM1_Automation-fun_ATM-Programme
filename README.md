@@ -8,6 +8,18 @@ The full form of ATM is Automated teller Machine, it is an electro-mechanical ma
 
 ATMs are beneficial, allowing clients to conduct fast self-service transactions such as cash withdrawals, deposits, bill payments and account-to-account transfers. Fees are usually paid out for cash withdrawals by the bank where the account is held, by the ATM operator, or both. Some of these charges can be avoided by using an ATM which is operated directly by the account holding bank.
 
+# Features
+Deposit of cash
+Withdrawal of cash
+Transfer of cash
+Accounts details
+Mini statement
+Regular payment of the bill
+Account balance details
+Recharge of prepaid mobile/bill payments
+Change the pin code
+
+
 # Folder Structure
 
 |Folder|      Description|
