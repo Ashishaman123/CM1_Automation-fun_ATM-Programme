@@ -3,6 +3,11 @@
 
 ![ATM](https://user-images.githubusercontent.com/94282403/142884589-3d7a8aec-31b8-4361-891c-6e10657d3440.jpg)
 
+# About Project
+The full form of ATM is Automated teller Machine, it is an electro-mechanical machine which consists of automated banking platforms that allow clients to perform smooth transactions without the assistance of a branch representative or teller. A debit card or credit cardholders should be able to withdraw cash at most ATMs.
+
+ATMs are beneficial, allowing clients to conduct fast self-service transactions such as cash withdrawals, deposits, bill payments and account-to-account transfers. Fees are usually paid out for cash withdrawals by the bank where the account is held, by the ATM operator, or both. Some of these charges can be avoided by using an ATM which is operated directly by the account holding bank.
+
 # Folder Structure
 
 |Folder|      Description|
