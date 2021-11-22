@@ -35,6 +35,4 @@ ATMs are beneficial, allowing clients to conduct fast self-service transactions 
 
 |No.|	Challenges|	Solution|
 |----|----------|----------|
-|1.|	Implementation of SDLC and maaking UML diagrams|	Exploring them and linking with the architechture of my project
-|2.|	Issues in running test cases|	Specifying correct return values for functions
-|3.|	Issues in workflows|	Filxed them by updating the path to all files correctly
+|1.|	Generation of makefile|To overcome this problem research on makefiles was done
