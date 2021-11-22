@@ -1,4 +1,4 @@
-PROJ_NAME = ATM Transaction
+PROJ_NAME = ATM 
 SRC = ATM.c ATM_operation.c
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
