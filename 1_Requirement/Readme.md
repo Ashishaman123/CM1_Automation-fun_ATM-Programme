@@ -1,6 +1,6 @@
 **#AUTOMATED TELLER MACHINE (ATM)**
 
-**##REQUIREMENTS**
+**##REQUIREMENTS
 
 ## INTRODUCTION
 The full form of ATM is Automated teller Machine, it is an electro-mechanical machine which consists of automated banking platforms that allow clients to perform smooth transactions without the assistance of a branch representative or teller. A debit card or credit cardholders should be able to withdraw cash at most ATMs.
