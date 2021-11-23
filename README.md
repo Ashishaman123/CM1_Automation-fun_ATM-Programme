@@ -1,3 +1,6 @@
+# CM1_Automation-Fun_ATM
+## AUTOMATED TELLER MACHINE (ATM)
+
 # CODE QUALITY
 [![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)
 
@@ -10,8 +13,7 @@
 # CODACY BADGE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a33767d5cc1746a5917efa78d03afbf5)](https://www.codacy.com/gh/Ashishaman123/CM1_Automation-fun_ATM-Programme/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ashishaman123/CM1_Automation-fun_ATM-Programme&amp;utm_campaign=Badge_Grade)
 
-# CM1_Automation-Fun_ATM
-## AUTOMATED TELLER MACHINE (ATM)
+
 
 ![ATM](https://user-images.githubusercontent.com/94282403/142884589-3d7a8aec-31b8-4361-891c-6e10657d3440.jpg)
 
