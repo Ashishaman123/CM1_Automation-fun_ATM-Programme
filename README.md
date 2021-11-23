@@ -3,6 +3,10 @@
 
 # CONTRIBUTION CHECK - GIT INSPECTOR
 [![Contribution Check - Git Inspector](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml)
+# CODE QUALITY SCORE
+![code quality score](https://api.codiga.io/project/29862/score/svg)
+# CODE GRADE
+![CODE GRADE](https://api.codiga.io/project/29862/status/svg)
 
 # CM1_Automation-Fun_ATM
 ## AUTOMATED TELLER MACHINE (ATM)
