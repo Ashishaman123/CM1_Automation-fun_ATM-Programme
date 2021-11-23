@@ -1,4 +1,5 @@
 # CODE QUALITY
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b9b7063f26a440938724bc54cdc2f79a)](https://app.codacy.com/gh/Ashishaman123/CM1_Automation-fun_ATM-Programme?utm_source=github.com&utm_medium=referral&utm_content=Ashishaman123/CM1_Automation-fun_ATM-Programme&utm_campaign=Badge_Grade_Settings)
 [![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)
 
 # CONTRIBUTION CHECK - GIT INSPECTOR
