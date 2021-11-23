@@ -7,6 +7,8 @@
 ![code quality score](https://api.codiga.io/project/29862/score/svg)
 # CODE GRADE
 ![CODE GRADE](https://api.codiga.io/project/29862/status/svg)
+# CODACY BADGE
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a33767d5cc1746a5917efa78d03afbf5)](https://www.codacy.com/gh/Ashishaman123/CM1_Automation-fun_ATM-Programme/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ashishaman123/CM1_Automation-fun_ATM-Programme&amp;utm_campaign=Badge_Grade)
 
 # CM1_Automation-Fun_ATM
 ## AUTOMATED TELLER MACHINE (ATM)
