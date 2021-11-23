@@ -1,6 +1,9 @@
 # CODE QUALITY
 [![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)
 
+# CONTRIBUTION CHECK - GIT INSPECTOR
+[![Contribution Check - Git Inspector](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml)
+
 # CM1_Automation-Fun_ATM
 ## AUTOMATED TELLER MACHINE (ATM)
 
