@@ -2,7 +2,7 @@
 ## AUTOMATED TELLER MACHINE (ATM)
 
 
-# CODE QUALITY - Static Code - Cppcheck
+# CODE QUALITY - STATIC CODE - Cppcheck
 [![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)
 
 # CONTRIBUTION CHECK - GIT INSPECTOR
