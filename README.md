@@ -2,23 +2,23 @@
 ## AUTOMATED TELLER MACHINE (ATM)
 
 
-|**CODE QUALITY - STATIC CODE - Cppcheck**|
+|**Code Quality - Static Code - Cppcheck**|
 |---------------------------------------|
 |[![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)|
 
-|**CONTRIBUTION CHECK - GIT INSPECTOR**|
+|**Contribuion Check - Git Inspector**|
 |---------------------------------------|
 |[![Contribution Check - Git Inspector](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml)|
 
-|**CODACY BADGE**|
+|**Codacy Badge**|
 |---------------------------------------|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a33767d5cc1746a5917efa78d03afbf5)](https://www.codacy.com/gh/Ashishaman123/CM1_Automation-fun_ATM-Programme/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ashishaman123/CM1_Automation-fun_ATM-Programme&amp;utm_campaign=Badge_Grade)|
 
-|**CODE QUALITY SCORE**|
+|**Code Quality Score**|
 |---------------------------------------|
 |![code quality score](https://api.codiga.io/project/29862/score/svg)|
 
-|**CODE GRADE**|
+|**Code Grade**|
 |---------------------------------------|
 |![CODE GRADE](https://api.codiga.io/project/29862/status/svg)|
 
