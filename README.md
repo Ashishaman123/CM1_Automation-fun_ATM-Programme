@@ -21,6 +21,10 @@
 |---------------------------------------|
 |[![Unit Testing - Unity](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/unity.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/unity.yml)|
 
+|windows C/C++ CI|
+|---------------------------------------|
+|[![windows C/C++ CI](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/windows_c-cpp.yml)|
+
 |**Codacy Badge**|
 |---------------------------------------|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a33767d5cc1746a5917efa78d03afbf5)](https://www.codacy.com/gh/Ashishaman123/CM1_Automation-fun_ATM-Programme/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ashishaman123/CM1_Automation-fun_ATM-Programme&amp;utm_campaign=Badge_Grade)|
