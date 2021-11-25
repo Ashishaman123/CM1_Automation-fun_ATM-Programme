@@ -4,6 +4,7 @@
 |C/C++ CI|
 |---------------------------------------|
 |[![C/C++ CI](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/c_build.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/c_build.yml)|
+
 |**Code Quality - Static Code - Cppcheck**|
 |---------------------------------------|
 |[![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)|
