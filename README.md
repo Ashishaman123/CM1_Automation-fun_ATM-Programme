@@ -5,6 +5,10 @@
 |---------------------------------------|
 |[![C/C++ CI](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/c_build.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/c_build.yml)|
 
+|CI-Coverage|
+|---------------------------------------|
+|[![CI-Coverage](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gcov.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gcov.yml)|
+
 |**Code Quality - Static Code - Cppcheck**|
 |---------------------------------------|
 |[![Code Quality - Static Code - Cppcheck](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/cppcheck.yml)|
@@ -12,6 +16,10 @@
 |**Contribuion Check - Git Inspector**|
 |---------------------------------------|
 |[![Contribution Check - Git Inspector](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/gitinspector.yml)|
+
+|Unit Testing - Unity|
+|---------------------------------------|
+|[![Unit Testing - Unity](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/unity.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/unity.yml)|
 
 |**Codacy Badge**|
 |---------------------------------------|
