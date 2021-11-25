@@ -27,11 +27,12 @@
 
 |**Codiga - Code Quality Score**|
 |---------------------------------------|
+|![code quality score](https://api.codiga.io/project/29862/score/svg)
 
 
 |**Codiga - Code Grade**|
 |---------------------------------------|
-
+|![CODE GRADE](https://api.codiga.io/project/29862/status/svg)|
 
 
 
