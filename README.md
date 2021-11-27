@@ -81,5 +81,3 @@ ATMs are beneficial, allowing clients to conduct fast self-service transactions 
 |CM1_Automation-Fun_ATM|
 |---------------------------------------|
 
-|Abhishek|
-|------|
