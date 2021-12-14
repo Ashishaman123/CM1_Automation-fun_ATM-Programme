@@ -1,7 +1,7 @@
 
 ## AUTOMATED TELLER MACHINE (ATM)
 
-## Code Checksssss
+## Code Checks
 
 |C/C++ CI|
 |---------------------------------------|
