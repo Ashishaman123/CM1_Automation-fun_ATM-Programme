@@ -1,6 +1,8 @@
 
 ## AUTOMATED TELLER MACHINE (ATM)
 
+## Code Checks
+
 |C/C++ CI|
 |---------------------------------------|
 |[![C/C++ CI](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/c_build.yml/badge.svg)](https://github.com/Ashishaman123/CM1_Automation-fun_ATM-Programme/actions/workflows/c_build.yml)|
